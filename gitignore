@@ -1,0 +1,5 @@
+data/
+__pycache__/
+.ipynb_checkpoints/
+section_b_outputs/*.pt
+section_b_outputs/shifted_test_seed*.npz
